@@ -5,4 +5,4 @@ The xml document is located in yii/HeBSdigital/cna.xml.
 It took me about seven or eight hours to complete this project.
 
 I was not able to do pagination. I was attempting to show and hide the rows via jQuery but could only hide one row
-and the style.display options did not allow me to format the new shown rows properly.
+and the style.display options did not allow me to format the new shown rows properly..
